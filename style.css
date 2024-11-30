@@ -1,11 +1,11 @@
 @font-face {
     font-family: "TTLakesRegular";
-    src: url(/fonts/TTLakes-Regular.ttf);
+    src: url(fonts/TTLakes-Regular.ttf);
   }
   
   @font-face {
     font-family: "TTLakesMedium";
-    src: url(/fonts/TTLakes-Medium.ttf);
+    src: url(fonts/TTLakes-Medium.ttf);
   }
   
   body,html{
@@ -108,7 +108,7 @@
   .brands__show-all::before {
     content: '';
     transition: 1s;
-    background-image: url(/ic/expand1.svg);
+    background-image: url(ic/expand1.svg);
     width: 24px;
     height: 24px;
     display: block;
